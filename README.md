@@ -13,7 +13,10 @@
 <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=ramonsouza36&theme=dark&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="ramonsouza36-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="ramonsouza36-CPlusPLus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="ramonsouza36-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="ramonsouza36-CPlusPLus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="ramonsouza36-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="ramonsouza36-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="ramonsouza36-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="ramonsouza36-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
