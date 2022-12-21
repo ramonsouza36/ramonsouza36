@@ -2,7 +2,7 @@
 <br>
 🔹Tenho também conhecimento além das linguagens citadas acima em Python, C++ e Java
 <br>
-🔹Cursando Análise e Desenvolvimento de Sistemas (Unilavras)
+🔹Graduado em Sistemas de Informação pela UFLA
 
  
 
