@@ -1,6 +1,6 @@
-🔹Trabalhando com projetos nas linguagens C#, .Net, Angular e JavaScript e com frameworks Uno Platform e Entity FrameWork
+🔹Trabalhando com projetos nas linguagens C#, .Net, Angular e JavaScript e com Entity FrameWork
 <br>
-🔹Tenho também conhecimento além das linguagens citadas acima em Python, C++ e Java
+🔹Tenho também conhecimento além das linguagens citadas acima em Python, C++ e Java e em Razor Pages e Blazor
 <br>
 🔹Graduado em Sistemas de Informação pela UFLA
 
