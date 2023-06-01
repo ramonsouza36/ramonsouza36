@@ -9,8 +9,8 @@
 <div align="left">
 
 <a href="https://github.com/ramonsouza36">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonsouza36&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=ramonsouza36&theme=dark&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonsouza36&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=ramonsouza36&theme=highcontrast&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="ramonsouza36-CPlusPLus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
