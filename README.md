@@ -9,9 +9,11 @@
 <div align="left">
 
 <a href="https://github.com/ramonsouza36">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonsouza36&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonsouza36&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>
 <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=ramonsouza36&theme=highcontrast&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+ 
 <div style="display: inline_block"><br>
 <img align="center" alt="ramonsouza36-CPlusPLus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="ramonsouza36-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
