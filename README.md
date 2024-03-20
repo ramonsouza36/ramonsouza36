@@ -9,7 +9,7 @@
 <a href="https://github.com/ramonsouza36">
 <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsouza36&layout=compact&theme=dracula&hide=css"/>
 <img height="148em" src="https://github-readme-stats.vercel.app/api?username=ramonsouza36&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
-<img alt="Rafa-pic" height="148em" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=ramonsouza36&theme=highcontrast&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"/>
+<img alt="Rafa-pic" height="148em" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=ramonsouza36&theme=highcontrast&count_private=true&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"/>
 </div>
  
 <div style="display: inline_block"><br>
